@@ -4,7 +4,7 @@ setup(
     description="A Discord Rich Presence for Discord.",
     license="MIT",
     url="https://github.com/realpython/reader",
-    long_description=README,
+    long_description=README.md,
     long_description_content_type="text/markdown",
     classifiers=[
         "License :: OSI Approved :: MIT License",

@@ -16,5 +16,7 @@ setup(
     include_package_data=True,
     install_requires=[
         "pywinauto", "pyautogui", "discordrp"
-    ]
+    ],
+    console=False,
+    icon='app.ico'
 )

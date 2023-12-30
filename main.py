@@ -1,6 +1,7 @@
 from pywinauto import Desktop
 from pyautogui import alert
 from discordrp import Presence
+from sys import argv,exit
 
 import time
 

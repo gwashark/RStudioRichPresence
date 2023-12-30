@@ -15,7 +15,7 @@ setup(
     packages=["rs2disc"],
     include_package_data=True,
     install_requires=[
-        "pywinauto", "pyautogui", "discordrp"
+        "pywinauto", "pyautogui", "discordrp", "sys"
     ],
     console=False,
     icon='app.ico'

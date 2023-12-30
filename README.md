@@ -10,3 +10,6 @@ This presence helps you with showing the status on Discord of what you are curre
 
 # Installing
 You can find the executable in [Releases](https://github.com/gwashark/RStudioRichPresence/releases/).
+
+# Stars 
+[![Star History Chart](https://api.star-history.com/svg?repos=gwashark/RStudioRichPresence&type=Date)](https://star-history.com/#gwashark/RStudioRichPresence&Date)

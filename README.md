@@ -1,3 +1,5 @@
+# OUTDATED. A better and modern version is on this forum: https://devforum.roblox.com/t/studiopresence-studiodiscord-rich-presence/2076043
+
 # Roblox Studio Presence
 This presence helps you with showing the status on Discord of what you are currently working on!
 
